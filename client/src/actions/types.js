@@ -1,0 +1,10 @@
+// export const GET_ITEMS = "GET_ITEMS";
+export const GET_ITEMS_REQUEST = "GET_ITEMS_REQUEST";
+export const GET_ITEMS_SUCCESS = "GET_ITEMS_SUCCESS";
+export const GET_ITEMS_FAILURE = "GET_ITEMS_FAILURE";
+export const ADD_ITEM_REQUEST = "ADD_ITEMS_REQUEST";
+export const ADD_ITEM_SUCCESS = "ADD_ITEMS_SUCCESS";
+export const ADD_ITEM_FAILURE = "ADD_ITEMS_FAILURE";
+
+// export const ADD_ITEM = "ADD_ITEM";
+export const DELETE_ITEM = "DELETE_ITEM";
